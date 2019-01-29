@@ -2,7 +2,7 @@
 
 This repository contains a selection of my projects in bioinformatics and data analysis.
 
-In the following lines, :
+In the following lines, I describe the goals of each project:
 
   RNA-seq classification.ipynb:
       Uses econd-order markov model to determine whether RNA seq reads came from one of two populations.
