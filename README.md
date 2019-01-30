@@ -4,6 +4,10 @@ This repository contains a selection of my projects in bioinformatics and data a
 
 In the following lines, I describe the goals of each project:
 
+-PCA.ipynb: Implements principle comonent analysis from first principles to cluster RNA-seq data, and compares it to another clustering using a k-means algorithm, also implemented from first principles.
+
+-t-SNE.ipynb: Implements t-SNE clustering of RNA-seq data from first principles. Compares to results from PCA.
+
 -RNA-seq classification.ipynb: Uses second-order markov model to determine whether RNA seq reads came from one of two populations.
 
 -Clustering.ipynb: Implements hard k-means and mixture model algorithms to cluster RNA-seq data according to cell identity. 
