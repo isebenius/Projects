@@ -10,5 +10,5 @@ In the following lines, I describe the goals of each project:
   Clustering.ipynb:
       Implements hard k-means and mixture model algorithms to cluster RNA-seq data according to cell identity. 
       
-  Regression_optimization:
+  Regression_optimization.ipynb:
       Given RNA-seq data for genes which follow oscillating expression patterns, find the parameters for the best regression model using maximum likelihood calculations.
