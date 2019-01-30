@@ -6,7 +6,7 @@ In the following lines, I describe the goals of each project:
 
 -PCA.ipynb: Implements principle comonent analysis from first principles to cluster RNA-seq data, and compares it to another clustering using a k-means algorithm, also implemented from first principles.
 
--t-SNE.ipynb: Implements t-SNE clustering of RNA-seq data from first principles. Compares to results from PCA.
+-t-SNE.ipynb: Implements t-SNE clustering of RNA-seq data from first principles. Compares to results from PCA, which fails to do a linear projection of this data to 2D space.
 
 -RNA-seq classification.ipynb: Uses second-order markov model to determine whether RNA seq reads came from one of two populations.
 
