@@ -2,7 +2,7 @@
 
 This repository contains a selection of my projects in bioinformatics and data analysis.
 
-In the following lines, I describe the goals of each project:
+I describe the goals of each project below:
 
 -PCA.ipynb: Implements principle comonent analysis from first principles to cluster RNA-seq data, and compares it to another clustering using a k-means algorithm, also implemented from first principles.
 
